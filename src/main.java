@@ -1,10 +1,9 @@
-
+//Jordi Ribellas y Eloy Altozano
 public class main extends Thread {
 
 	public static void main(String[] args) {
 		main thread = new main();
 		thread.start();
-
 	}
 
 	public void run() {
